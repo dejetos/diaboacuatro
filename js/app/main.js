@@ -1,0 +1,1 @@
+!function(t){"use strict";t.fn.clearDefault=function(){return this.each(function(){var i=t(this).val();t(this).focus(function(){t(this).val()===i&&t(this).val("")}),t(this).blur(function(){""===t(this).val()&&t(this).val(i)})})}}(jQuery),function(){"use strict";$(".clear-text").clearDefault()}();

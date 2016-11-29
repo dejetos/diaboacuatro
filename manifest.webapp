@@ -1,0 +1,30 @@
+{
+  "version": "3.2",
+  "name": "Bresa",
+  "launch_path": "index.html",
+  "description": "Front-end framework made with ♥ by Fishy",
+  "icons": {
+    "16": "img/content/icon-16x16.png"
+    "128": "img/content/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Fishy",
+    "url": "http://fishy.com.br"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "pt-BR",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Bresa",
+      "description": "Front-end framework made with ♥ by Fishy"
+    },
+    "pt-BR": {
+      "name": "Bresa",
+      "description": "Front-end framework feito com ♥ pela Fishy"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+#header {
+  width:100%;
+  h1 {@include arial($color-text, 12px, 12px, 400, $shape);}
+  h2 {}
+  #nav {}
+}

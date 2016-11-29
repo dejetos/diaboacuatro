@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# ORGANIZATION
+
+	Fishy -- http://fishy.com.br -- @fishybr
+
+# TEAM
+
+<Dereckson Santana> -- <Team Leader Front-end> --
+<Leticia Lima> -- <Front-end Developer> --
+<Filipe Andrade> -- <Front-end Developer> --
+
+# THANKS
+
+	<name>
+
+# TECHNOLOGY COLOPHON
+
+	HTML5, CSS3
+	jQuery, Modernizr, swfObject

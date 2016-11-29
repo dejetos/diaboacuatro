@@ -1,0 +1,7 @@
+@media #{$medium-and-up} {
+  body {background:blue;}
+}
+
+@media #{$large-and-up} {
+  body {background:gray;}
+}

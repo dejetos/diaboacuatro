@@ -1,0 +1,32 @@
+/* Import fonts google */
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+
+/* funções e variaveis */
+$color-base: #fff;
+$color-text: #000;
+
+/* função para animação */
+@mixin transition($property:all, $time:0.3s, $ease:ease) {
+  transition: $property $time $ease;
+}
+
+/* mixin para fonte */
+$shape:inherit;
+@mixin arial($color, $size, $height, $weight, $shape) {
+  color:$color;
+  font:$weight #{$size}/#{$height} 'Arial', sans-serif;
+  text-transform:$shape;
+}
+
+/* mixin para sprites */
+@mixin sprite($sprite) {
+  @include sprite-image($sprite);
+  @include sprite-position($sprite);
+  @include sprite-width($sprite);
+  @include sprite-height($sprite);
+  background-repeat: no-repeat;
+}
+
+
+/* mixin para bordas arredondadas */
+@mixin bdr($size) {border-radius:$size;}

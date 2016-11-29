@@ -1,0 +1,5 @@
+#footer{
+  .icon{
+    @include sprite($assinatura); 
+  }
+}
