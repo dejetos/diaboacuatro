@@ -1,25 +1,7 @@
-# Bresa
-
-Front-end framework made with ♥ by Fishy
-
-Version 3.1
-
-## Collaborators: ##
-* Dereckson Santana
-* Leticia Lima
-* Filipe Andrade
-* Bruno Dutra
-* Rafael Freire
+# Regras de uso
 
 
-Sugestões é so fazer uma edição e manda o *pull request* =]
-
-## License ##
-LICENSE:
-  MIT - http://www.opensource.org/licenses/mit-license.php
-
-
-## Regras do Bresa ##
+## Regras ##
 * SCSS compilado usando o GULP 
 * Para iniciar o Gulp, rodar o comando npm install, onde estiver os arquivos: gulpfile.js e packaje.json
 * Quando o site for publicado na versão final, NÃO SUBIR os arquivos de base (pasta src, node_modules, .git, gulpfile.js, packaje.json, readme.md);

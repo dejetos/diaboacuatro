@@ -1,5 +1,5 @@
 #header {
-  width:100%;
+  width:100%;height: 150px;position: fixed;top: 0;left: 0;z-index: 9;
   h1 {@include arial($color-text, 12px, 12px, 400, $shape);}
   h2 {}
   #nav {}
